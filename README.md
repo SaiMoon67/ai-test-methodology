@@ -17,3 +17,4 @@ Most AI comparisons rely on impressions. Here the prompt, the checklist and the 
 - The methodology is not changed after testing starts. Any change is recorded separately with a date and a reason.
 - Fixes are counted separately from checklist scores, and regressions are recorded.
 - Full screen recordings and the generated code are kept.
+- Every model gets a new chat with no memory and no custom instructions. Conditions for fixes are in PROMPT.md and CHECKLIST.md.
