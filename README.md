@@ -1,6 +1,6 @@
 # AI Test Methodology
 
-Status: draft, not yet public.
+Status: published before testing, Experiment 001
 
 ## What this is
 An open methodology for comparing AI models on identical, verifiable tasks. Experiment 001 compares ChatGPT, Claude and Gemini on one task: building a single-file task manager in HTML, CSS and JavaScript.
